@@ -54,4 +54,4 @@ model.add(Dense(output_size, activation='softmax'))
 # compile the model
 model.fit(X_int, y, epochs=10, batch_size=32)
 
-
+# We define a function that converts an input record to a sequence of integers
