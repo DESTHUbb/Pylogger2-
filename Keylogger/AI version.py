@@ -52,5 +52,6 @@ model.add(Dense(hidden_size, activation='relu'))
 model.add(Dense(output_size, activation='softmax'))
 
 # compile the model
+model.fit(X_int, y, epochs=10, batch_size=32)
 
 
