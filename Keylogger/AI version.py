@@ -19,3 +19,6 @@ for log in training_logs:
     
 # Create a dictionary to assign each severity level to an integer index
 label_to_index = {"DEBUG": 0, "INFO": 1, "WARNING": 2, "ERROR": 3, "CRITICAL": 4}
+
+# Convert the text labels to integers using the dictionary above
+y = [label_to_index[label] for label in y]
