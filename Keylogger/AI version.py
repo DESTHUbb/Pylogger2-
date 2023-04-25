@@ -10,3 +10,7 @@ with open("training_logs.txt", "r") as f:
     training_logs = f.readlines()
 
 # We divide the records into examples of input (X) and output (y)
+X = []
+Y = []
+for log in training_logs:
+    
