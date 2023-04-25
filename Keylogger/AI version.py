@@ -42,4 +42,6 @@ for log in X:
 # We configure some parameters of the model
 voca_size = len(vocab) + 1
 output_size = len(label_to_index)
-            
+embedding_size = 128
+hidden_size = 256
+
