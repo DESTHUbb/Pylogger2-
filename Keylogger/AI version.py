@@ -31,5 +31,8 @@ for log in  X:
     for word in words:
         if word not in vocab:
             vocab[word] = index
-            index += 1
+            index += 1      
+      
+# Convert each input record to a sequence of integers using the word dictionary
+
             
