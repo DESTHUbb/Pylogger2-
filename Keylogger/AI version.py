@@ -63,4 +63,6 @@ def convert_input_to_int(log):
 
 def predict_log_level(model, log):
     input_int = convert_input_to_int(log)
+     input_int = [input_int]
+        
     
