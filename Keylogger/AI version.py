@@ -65,5 +65,5 @@ def predict_log_level(model, log):
     input_int = convert_input_to_int(log)
      input_int = [input_int]
      prediction = model.predict(input_int)
-        
+     index_to_label = {v: k for k, v in label_to_index.items()}
     
