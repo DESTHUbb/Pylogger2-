@@ -40,5 +40,6 @@ for log in X:
     X_int.append([vocab[word] for word in words])
  
 # We configure some parameters of the model
-    
+voca_size = len(vocab) + 1
+
             
