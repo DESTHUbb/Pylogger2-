@@ -38,5 +38,7 @@ X_int = []
 for log in X:
     words = log.split()
     X_int.append([vocab[word] for word in words])
+ 
+# We configure some parameters of the model
     
             
