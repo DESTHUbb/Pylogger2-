@@ -58,6 +58,7 @@ model.fit(X_int, y, epochs=10, batch_size=32)
 def convert_input_to_int(log):
     words = log.split()
     return [vocab.get(word, 0) for word in words]
+   
+# We define a function that predicts the severity level of an input record using the model 
 
-                  
 
