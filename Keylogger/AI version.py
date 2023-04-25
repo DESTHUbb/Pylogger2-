@@ -6,3 +6,5 @@ from tensorflow, keras, optimizers import Adam
 from tensorflow, keras, losses import sparse_categorical_crossentropy
 
 # Load the training records
+with open("training_logs.txt", "r") as f:
+    training_logs = f.readlines()
