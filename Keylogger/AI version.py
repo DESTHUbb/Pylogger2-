@@ -13,4 +13,8 @@ with open("training_logs.txt", "r") as f:
 X = []
 Y = []
 for log in training_logs:
+     parts = log.split("|")
+    X.append(parts[0])
+    y.append(int(parts[1]))
+
     
