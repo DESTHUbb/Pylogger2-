@@ -48,6 +48,6 @@ hidden_size = 256
 # Create the neural network model
 model = Sequential()
 model.add(Dense(embedding_size, input_shape=(None,)))
-
+model.add(Dense(hidden_size, activation='relu'))
 
 
