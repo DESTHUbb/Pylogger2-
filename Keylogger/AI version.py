@@ -46,7 +46,8 @@ embedding_size = 128
 hidden_size = 256
 
 # Create the neural network model
-
+model = Sequential()
+model.add(Dense(embedding_size, input_shape=(None,)))
 
 
 
