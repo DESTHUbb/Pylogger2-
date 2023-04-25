@@ -18,4 +18,4 @@ for log in training_logs:
     y.append(int(parts[1]))
     
 # Create a dictionary to assign each severity level to an integer index
-    
+label_to_index = {"DEBUG": 0, "INFO": 1, "WARNING": 2, "ERROR": 3, "CRITICAL": 4}
