@@ -22,3 +22,14 @@ label_to_index = {"DEBUG": 0, "INFO": 1, "WARNING": 2, "ERROR": 3, "CRITICAL": 4
 
 # Convert the text labels to integers using the dictionary above
 y = [label_to_index[label] for label in y]
+
+# Create a dictionary of words to assign each unique word to an integer index
+vocab = {}
+index = 1
+for log in  X:
+    words = log.split()
+    for word in words:
+        if word not in vocab:
+            vocab[word] = index
+            index += 1
+            
