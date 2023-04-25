@@ -34,5 +34,9 @@ for log in  X:
             index += 1      
       
 # Convert each input record to a sequence of integers using the word dictionary
-
+X_int = []
+for log in X:
+    words = log.split()
+    X_int.append([vocab[word] for word in words])
+    
             
