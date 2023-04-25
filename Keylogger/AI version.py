@@ -45,3 +45,8 @@ output_size = len(label_to_index)
 embedding_size = 128
 hidden_size = 256
 
+# Create the neural network model
+
+
+
+
