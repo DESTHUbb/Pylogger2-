@@ -55,3 +55,9 @@ model.add(Dense(output_size, activation='softmax'))
 model.fit(X_int, y, epochs=10, batch_size=32)
 
 # We define a function that converts an input record to a sequence of integers
+def convert_input_to_int(log):
+    words = log.split()
+    return [vocab.get(word, 0) for word in words]
+
+                  
+
