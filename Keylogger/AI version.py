@@ -62,3 +62,5 @@ def convert_input_to_int(log):
 # We define a function that predicts the severity level of an input record using the model 
 
 def predict_log_level(model, log):
+    input_int = convert_input_to_int(log)
+    
