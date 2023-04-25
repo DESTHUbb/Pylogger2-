@@ -72,3 +72,4 @@ def predict_log_level(model, log):
 # Usage example
 log = "This is a test warning log"
 predicted_level = predict_log_level(model, log)
+print(predicted_level)
