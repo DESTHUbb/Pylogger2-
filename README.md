@@ -18,5 +18,5 @@
 [![PYAUTOGUI](https://user-images.githubusercontent.com/90658763/235354727-77de3018-871b-4688-84e0-003ab97c9567.png)](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/Adam)
 
 ## Sparse_categorical_crossentropy:
-[![PYAUTOGUI](https://user-images.githubusercontent.com/90658763/235354808-227f0453-d17c-4c9a-ab96-7d1c4135563e.png)](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/Adam)
+[![PYAUTOGUI](https://user-images.githubusercontent.com/90658763/235354808-227f0453-d17c-4c9a-ab96-7d1c4135563e.png)](https://www.tensorflow.org/api_docs/python/tf/keras/metrics/sparse_categorical_crossentropy)
 
