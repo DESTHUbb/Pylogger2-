@@ -11,7 +11,7 @@
 
 ## Dense:
 
-##  import Adam:
+## Adam:
 
 ## import sparse_categorical_crossentropy:
 
