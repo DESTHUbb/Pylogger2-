@@ -7,7 +7,7 @@
 [![PYAUTOGUI](https://user-images.githubusercontent.com/90658763/230070764-d9e57eed-83eb-4c05-a1a4-be008381420e.png)](https://pypi.org/project/pynput/)
 
 ## import Sequential:
-![image](https://user-images.githubusercontent.com/90658763/235352072-c25a3a31-02f0-4622-b629-f796235e4a51.png)
+[![PYAUTOGUI](https://user-images.githubusercontent.com/90658763/235352072-c25a3a31-02f0-4622-b629-f796235e4a51.png)](https://www.tensorflow.org/api_docs/python/tf/keras/Sequential)
 
 ## import Dense:
 
