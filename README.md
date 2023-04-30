@@ -3,13 +3,16 @@
 ![before_filter](https://user-images.githubusercontent.com/90658763/190903395-2cd84e6e-a270-4dd8-ab4b-78a2d0b23797.gif)
 
 # Bookstores:
+
 ## Pynut:
 [![PYAUTOGUI](https://user-images.githubusercontent.com/90658763/230070764-d9e57eed-83eb-4c05-a1a4-be008381420e.png)](https://pypi.org/project/pynput/)
 
 ## Sequential:
+
 [![PYAUTOGUI](https://user-images.githubusercontent.com/90658763/235352072-c25a3a31-02f0-4622-b629-f796235e4a51.png)](https://www.tensorflow.org/api_docs/python/tf/keras/Sequential)
 
 ## Dense:
+[![PYAUTOGUI](https://user-images.githubusercontent.com/90658763/235352072-c25a3a31-02f0-4622-b629-f796235e4a51.png)](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Dense)
 
 ## Adam:
 
