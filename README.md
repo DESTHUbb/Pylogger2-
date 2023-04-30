@@ -15,7 +15,7 @@
 [![PYAUTOGUI](https://user-images.githubusercontent.com/90658763/235354635-4ecd2bc3-3d14-4110-a17a-290dcf3558ea.png)](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Dense)
 
 ## Adam:
-[![PYAUTOGUI](https://user-images.githubusercontent.com/90658763/235354727-77de3018-871b-4688-84e0-003ab97c9567.png)](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Dense)
+[![PYAUTOGUI](https://user-images.githubusercontent.com/90658763/235354727-77de3018-871b-4688-84e0-003ab97c9567.png)](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/Adam)
 
 
 ## import sparse_categorical_crossentropy:
