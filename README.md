@@ -2,6 +2,10 @@
 ## Simple keylogger
 ![before_filter](https://user-images.githubusercontent.com/90658763/190903395-2cd84e6e-a270-4dd8-ab4b-78a2d0b23797.gif)
 
+# Functions:
+## This code uses Python's pynput library to capture the keys that are pressed on the keyboard and write them to an activity log file (log.txt). In short, the code acts as a keylogger.
+
+### When a key is pressed, the on_press function is called, and the key is added to the keys list. If 10 or more keys have been pressed, the keys list is written to the log.txt file by the write_file function, and the keys list and counter are reset. The write_file function takes the list of keys and writes each key to a separate line in the log file, formatted appropriately so that it is easy to read.
 # Bookstores:
 
 ## Pynut:
