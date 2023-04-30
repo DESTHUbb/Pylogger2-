@@ -9,3 +9,4 @@
 ## import Sequential
 ## import Dense
 ##  import Adam
+## import sparse_categorical_crossentropy
