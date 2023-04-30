@@ -6,6 +6,9 @@
 ## This code uses Python's pynput library to capture the keys that are pressed on the keyboard and write them to an activity log file (log.txt). In short, the code acts as a keylogger.
 
 ### When a key is pressed, the on_press function is called, and the key is added to the keys list. If 10 or more keys have been pressed, the keys list is written to the log.txt file by the write_file function, and the keys list and counter are reset. The write_file function takes the list of keys and writes each key to a separate line in the log file, formatted appropriately so that it is easy to read.
+
+### The on_release function is called when a key is released, and in this case it does nothing special other than exit the program if the "esc" key is pressed.
+
 # Bookstores:
 
 ## Pynut:
