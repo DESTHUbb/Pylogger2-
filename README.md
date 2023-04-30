@@ -9,7 +9,7 @@
 ## Sequential:
 [![PYAUTOGUI](https://user-images.githubusercontent.com/90658763/235352072-c25a3a31-02f0-4622-b629-f796235e4a51.png)](https://www.tensorflow.org/api_docs/python/tf/keras/Sequential)
 
-## import Dense:
+## Dense:
 
 ##  import Adam:
 
