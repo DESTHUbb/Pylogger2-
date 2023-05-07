@@ -12,7 +12,7 @@
 # Bookstores:
 
 ## Pynut:
-[![PYAUTOGUI](https://user-images.githubusercontent.com/90658763/230070764-d9e57eed-83eb-4c05-a1a4-be008381420e.png)](https://pypi.org/project/pynput/)
+[![Pynut](https://user-images.githubusercontent.com/90658763/230070764-d9e57eed-83eb-4c05-a1a4-be008381420e.png)](https://pypi.org/project/pynput/)
 
 ## Sequential:
 
