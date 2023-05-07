@@ -19,7 +19,7 @@
 [![PYAUTOGUI](https://user-images.githubusercontent.com/90658763/235352072-c25a3a31-02f0-4622-b629-f796235e4a51.png)](https://www.tensorflow.org/api_docs/python/tf/keras/Sequential)
 
 ## Dense:
-[![PYAUTOGUI](https://user-images.githubusercontent.com/90658763/235354635-4ecd2bc3-3d14-4110-a17a-290dcf3558ea.png)](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Dense)
+[![Dense](https://user-images.githubusercontent.com/90658763/235354635-4ecd2bc3-3d14-4110-a17a-290dcf3558ea.png)](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Dense)
 
 ## Adam:
 [![Adam](https://user-images.githubusercontent.com/90658763/235354727-77de3018-871b-4688-84e0-003ab97c9567.png)](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/Adam)
