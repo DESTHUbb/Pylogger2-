@@ -27,8 +27,6 @@
 ## Sparse_categorical_crossentropy:
 [![PYAUTOGUI](https://user-images.githubusercontent.com/90658763/235354808-227f0453-d17c-4c9a-ab96-7d1c4135563e.png)](https://www.tensorflow.org/api_docs/python/tf/keras/metrics/sparse_categorical_crossentropy)
 
-[![PYAUTOGUI](https://user-images.githubusercontent.com/90658763/235354808-227f0453-d17c-4c9a-ab96-7d1c4135563e.png)](https://neptune.ai/blog/keras-metrics)
+[![PYAUTOGUI](https://user-images.githubusercontent.com/90658763/236671860-95761804-9113-4642-843d-15f9d7d374de.png)](https://neptune.ai/blog/keras-metrics)
 
-https://neptune.ai/blog/keras-metrics
-![image](https://user-images.githubusercontent.com/90658763/236671860-95761804-9113-4642-843d-15f9d7d374de.png)
 
